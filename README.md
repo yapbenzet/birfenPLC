@@ -1,2 +1,0 @@
-# birfenPLC
-PLC ROS çalışmaları
